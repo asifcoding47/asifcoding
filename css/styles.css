@@ -1,0 +1,22 @@
+body{ 
+background-color: mistyrose;
+}
+h1 {
+color: skyblue;
+}
+h2{ 
+    color: skyblue;
+}
+h3{
+    color: skyblue;
+}
+h4{
+    color: skyblue;
+}
+hr
+{
+border-style: dotted none none;
+border-color: white;
+border-width: 5px;
+width: 5%;
+}
